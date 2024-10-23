@@ -43,9 +43,9 @@ To run the project locally, follow these steps:
 
 Once the app is installed, users can:
 
--Set up their profile and add their medical information, including medications and emergency contacts.
--Schedule doctor appointments and receive reminders.
--Engage in brain games and puzzles to stimulate cognitive function.
--Interact with others in the community section for support.
--Use the pill reminder system to manage medications.
--In case of emergencies, press the SOS button to notify their emergency contacts.
+- Set up their profile and add their medical information, including medications and emergency contacts.
+- Schedule doctor appointments and receive reminders.
+- Engage in brain games and puzzles to stimulate cognitive function.
+- Interact with others in the community section for support.
+- Use the pill reminder system to manage medications.
+- In case of emergencies, press the SOS button to notify their emergency contacts.

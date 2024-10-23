@@ -36,7 +36,7 @@ To run the project locally, follow these steps:
    Download the google-services.json file from your Firebase project and add it to the android/app directory.
 
 4. **Run the app**: To start the app on an emulator or a physical device, use:
-5. ```bash
+   ```bash
    flutter run
 
 # Usage

@@ -1,4 +1,5 @@
 **ElderEase**
+
 ElderEase is a mobile application designed specifically to assist elderly individuals, particularly those suffering from early stages of dementia. The app provides essential tools to improve the quality of life for elderly users by managing their daily tasks, stimulating their mental health through brain games and puzzles, and fostering community support. The intuitive interface is crafted to be user-friendly, ensuring that elderly individuals can navigate it with ease.
 
 Key Features

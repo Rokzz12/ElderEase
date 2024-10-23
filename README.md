@@ -37,7 +37,7 @@ To run the project locally, follow these steps:
    ```bash
    flutter run
 
-# Usage
+# 🚀 Usage
 
 Once the app is installed, users can:
 

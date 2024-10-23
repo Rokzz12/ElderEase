@@ -28,17 +28,18 @@ To run the project locally, follow these steps:
    cd ElderEase
 
 
-Install dependencies: Run the following command to install all necessary dependencies:
-flutter pub get
+2. **Install dependencies**: Run the following command to install all necessary dependencies:
+   ```bash
+   flutter pub get
 
-Configure Firebase:
-Download the google-services.json file from your Firebase project and add it to the android/app directory.
-For iOS, download the GoogleService-Info.plist file and add it to your project under the iOS directory.
+3. **Configure Firebase**:
+   Download the google-services.json file from your Firebase project and add it to the android/app directory.
 
-Run the app: To start the app on an emulator or a physical device, use:
-flutter run
+4. **Run the app**: To start the app on an emulator or a physical device, use:
+5. ```bash
+   flutter run
 
-**Usage**
+# Usage
 
 Once the app is installed, users can:
 
